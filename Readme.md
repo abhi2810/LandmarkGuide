@@ -1,6 +1,6 @@
-#Android Project with Firebase ML Kit
+# Android Project with Firebase ML Kit
 
-#Instructions
+# Instructions
 
 - Add google-services.json file to the project folder
 
